@@ -6,8 +6,8 @@ This document contains four sections. The first section describes the requiremen
 
 Our team also included two pdfs: Farmacy Food System Arch Design and Farmacy Food System Arch Records.
 
-Farmacy Food System Arch Records.pdf
+[Farmacy Food System Arch Records.pdf](https://github.com/lastlegion/arch-katas/blob/main/Farmacy.Food.System.Arch.Records.pdf)
 
-Farmacy Food System Arch Design.pdf
+[Farmacy Food System Arch Design.pdf](https://github.com/lastlegion/arch-katas/blob/main/Farmacy.Food.System.Arch.Design.pdf)
 
-Thanks.
+Please note we submitted before the deadline on this issue https://github.com/lastlegion/arch-katas/issues/1. 
