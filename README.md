@@ -6,7 +6,8 @@ This document contains four sections. The first section provides the purpose and
 
 Our team also included two pdfs: SuperKing Architecture Design Document and SuperKing Architecture Presentation.
 
-SuperKing Architecture Presentation.pdf
-SuperKing Architecture Design Document.pdf
+[SuperKing Architecture Presentation.pdf](https://github.com/lastlegion/arch-katas/files/5620372/SuperKing.Architecture.Presentation.pdf)
+
+[SuperKing Architecture Design Document.pdf](https://github.com/lastlegion/arch-katas/files/5620373/SuperKing.Architecture.Design.Document.pdf)
 
 An email with the requested files was sent to O'Reilly prior to the due date. There were issues with the submission on Github and that's why the submission showed up late.
